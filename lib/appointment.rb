@@ -1,3 +1,3 @@
 class Appointment
-  attr_accessor :name, :patient, :doctor
+  attr_accessor :date, :patient, :doctor
 end
